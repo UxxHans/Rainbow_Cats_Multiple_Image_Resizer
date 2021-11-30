@@ -17,4 +17,4 @@ Automatically resize and rearrange multiple images to keep the proportion and th
 
 - Maximize the picture according to it original size, transparent space is also counted.
 
-![alt text](https://github.com/UxxHans/Rainbow_Cats_Multiple_Image_Resizer/blob/main/Guide/Guide.jpg)
+![alt text](https://github.com/UxxHans/Rainbow_Cats_Multiple_Image_Resizer/blob/main/Guide/Introduction.jpg)
