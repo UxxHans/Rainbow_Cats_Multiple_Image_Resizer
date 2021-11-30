@@ -1,7 +1,7 @@
 # Rainbow_Cats_Multiple_Image_Resizer
 Automatically resize and rearrange multiple images to keep the proportion and the position. For transparent image, it will detect and adjust the final position if the image is sticking on any side of the canvas.
 
-For Gray Scale and RGB (Not Transparent):
+<b>For Gray Scale and RGB (Not Transparent):</b>
 
 - Resize the picture and keep the proportion.
 
@@ -9,8 +9,7 @@ For Gray Scale and RGB (Not Transparent):
 
 - Maximize the picture and fit it in the canvas.
 
-
-For RGBA (Transparent):
+<b>For RGBA (Transparent):</b>
 
 - Resize the picture and keep the proportion.
 
