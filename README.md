@@ -3,11 +3,11 @@ Automatically resize and rearrange multiple images to keep the proportion and th
 
 <b>Guide:</b>
 
--Enter the target size and extension in main.py.
+- Enter the target size and extension in main.py.
 
--Throw image folders (without files other than images) or images into the "Input" folder.
+- Throw image folders (without files other than images) or images into the "Input" folder.
 
--Run main.py and get results from "Output" folder.
+- Run main.py and get results from "Output" folder.
 
 <b>For Gray Scale and RGB (Not Transparent):</b>
 
