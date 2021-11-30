@@ -1,6 +1,14 @@
 # Rainbow_Cats_Multiple_Image_Resizer
 Automatically resize and rearrange multiple images to keep the proportion and the position. For transparent image, it will detect and adjust the final position if the image is sticking on any side of the canvas.
 
+<b>Guide:</b>
+
+-Enter the target size and extension in main.py.
+
+-Throw image folders (without files other than images) or images into the "Input" folder.
+
+-Run main.py and get results from "Output" folder.
+
 <b>For Gray Scale and RGB (Not Transparent):</b>
 
 - Resize the picture and keep the proportion.
