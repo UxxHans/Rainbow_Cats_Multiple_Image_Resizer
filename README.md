@@ -3,7 +3,7 @@ Automatically resize and rearrange multiple images to keep the proportion and th
 
 <b>Guide:</b>
 
-- Enter the target size and target extension name (If needed) in main.py.
+- Enter the target size and target extension name (if needed) in main.py.
 
 - Throw image folders (without files other than images) or images into the "Input" folder.
 
